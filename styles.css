@@ -1,7 +1,7 @@
 html,
 body {
   color: #26a4de;
-  font-size: 0.89em;
+  font-size: 1.89em;
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
@@ -25,14 +25,14 @@ body {
 }
 h1 {
   color: #6ef0eb;
-  font-size: 3.625rem;
+  font-size: 4.625rem;
   margin: 30px auto 0 auto;
   font-family: 'Sacramento', cursive;
 }
 h2 {
   color: #66BFBF;
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   font-weight: normal;
   padding-bottom: 2px;
 }
