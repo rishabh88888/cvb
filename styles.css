@@ -14,7 +14,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-content: center;
-  height: 40vh;
+  height: 30vh;
   &__text {
     color: #fff;
    font-family: 'Roboto', sans-serif;
